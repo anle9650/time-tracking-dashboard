@@ -2,7 +2,7 @@
   <div :class="['card', `card-${activity}`]">
     <div class="card content-card pt-2 pb-3 mt-5">
       <div class="card-body">
-        <div class="d-flex justify-content-between">
+        <div class="d-flex justify-content-between align-items-center">
           <h5 class="card-title">
             {{ activity.charAt(0).toUpperCase() + activity.slice(1) }}
           </h5>
