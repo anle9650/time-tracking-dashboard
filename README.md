@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/time-tracking-dashboard-yPUj9ND7T](https://www.frontendmentor.io/solutions/time-tracking-dashboard-yPUj9ND7T)
+- Live Site URL: [https://anle9650.github.io/time-tracking-dashboard/](https://anle9650.github.io/time-tracking-dashboard/)
 
 ## My process
 
